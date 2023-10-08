@@ -1,0 +1,10 @@
+curl -X 'POST' \
+  'https://api.vorj.app/main/v1/erc20/contracts/0xf064bf22d37bafd099537f015080426458ad47d4/mint' \
+  -H 'accept: application/json' \
+  -H 'x-api-key: 6053186309eff12ab7d1aba271d012b6304171b99cfe36fa4adf70f37369d2ed' \
+  -H 'Content-Type: application/json' \
+  -d '{
+  "address": "0x91B94261bB289eDD8e1188d4E99bc1679E8fBbB5",
+  "amount": "1",
+  "exponent": 0
+}'
