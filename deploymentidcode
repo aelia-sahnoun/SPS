@@ -1,0 +1,18 @@
+  "_id": "6522c232e6e04bf754e8fd1e",
+  "status": "succeeded",
+  "type": "ERC-20",
+  "name": "food advantages",
+  "symbol": "foad",
+  "totalSupply": "10000000000",
+  "decimals": 0,
+  "deploymentTx": "0xe5a2abec5eac87ee1772dd225b3501ec826411ea7d5f6428f192317c54577128",
+  "address": "0xf064bf22d37bafd099537f015080426458ad47d4",
+  "updatedAt": "2023-10-08T14:53:47.671Z",
+  "functions": {
+    "burn": false,
+    "pause": true
+  },
+  "wovListed": false,
+  "indexed": false,
+  "supportsAccessControls": true
+}
